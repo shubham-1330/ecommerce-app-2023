@@ -1,3 +1,3 @@
 # ecommerce-app
-complete mern stack ecommerce projectcomplete code
+complete mern stack ecommerce project complete code
 
